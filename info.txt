@@ -1,0 +1,5 @@
+ToDo Project
+
+This example was created from Dev Ed and the Beginner Vanilla Javascript Project Tutorial.
+Link to the Tutorial: https://www.youtube.com/watch?v=Ttf3CEsEwMQ
+Link to Dev Ed: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
